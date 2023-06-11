@@ -106,7 +106,7 @@ TF是指某个特征在单副图像中出现的频率。假设图像A中单词Wi
 
 ## 002 常用的回环检测方法有哪些？
 
-- [ ] TODO
+- [回环检测方案](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxOTczOTM4NA%3D%3D%26mid%3D2247488240%26idx%3D1%26sn%3D27757e4d0e5f464ea4a8620b738a8a1b%26chksm%3D97d7f767a0a07e71bddd9cd2dc1c3b9fe494523291fdfb98992d978fbf70f754a32f968c343b%26token%3D484562772%26lang%3Dzh_CN%23rd)
 
 ## 003 介绍一下Gauss-Netwon和LM算法
 
